@@ -1,2 +1,3 @@
 # AI_learning
-This includes codes and notes on the courses on AI
+This includes my codes and notes on the courses for learning AI
+ 
